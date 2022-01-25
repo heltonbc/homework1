@@ -1,0 +1,43 @@
+* {
+    padding-left: 2ch;
+    color: white;
+    background-color: black;
+}
+@import url("https://fonts.googleapis.com/css2?family=Dongle:wght@300&display=swap");
+
+@font-face {
+    font-family: "dafont";
+    src: url("./Snow-Kei.ttf");
+}
+
+@font-face {
+    font-family: "dafont2";
+    src: url("./Stanberry.ttf");
+}
+
+.titulo {
+    font-family: "dafont";
+}
+
+.lista {
+    font-family: "dafont2";
+    line-height: 1ch;
+}
+
+.resolucao {
+    font-family: "dafont";
+    font-weight: 500;
+    font-size: 3ch;
+}
+
+.fontes {
+    font-family: "Dongle", sans-serif;
+    font-size: 20px;
+    line-height: 2.5ch;
+}
+
+.repositorio {
+    font-family: "Dongle", sans-serif;
+    font-size: 20px;
+    padding-left: 1.5ch;
+}
